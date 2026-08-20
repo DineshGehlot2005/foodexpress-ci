@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is content from first branch.
+=======
+This is content from second branch.
+>>>>>>> second-branch
